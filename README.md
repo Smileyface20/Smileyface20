@@ -68,12 +68,11 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Cloud A
 
 <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b>macOS Monterey 12.2.1</li>
-	    <li><b>Laptop: </b> Macbook Air 2019</li>
-  	    <li><b>Browser: </b> Safari & Chrome</li>
-	    <li><b>Code Editor:</b> VSCode ❤, Xcode</li>
-            <li><b>Cleverly using macOS Terminal with node.js, python & git</li>
-		<li><b>Appetize.io for App Testing Purpose</li>
+  	    <li><b>OS:</b>Windows 11 & Kali linux</li>
+	    <li><b>Laptop: </b> Asus Tuf fx505dt</li>
+  	    <li><b>Browser: </b> Brave & Edge</li>
+	    <li><b>Code Editor:</b> VSCode ❤</li>
+            
 	</ul>	
 
 <div align="centre">
