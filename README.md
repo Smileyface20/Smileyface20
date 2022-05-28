@@ -8,40 +8,38 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Cloud A
 
 
 <a href="https://twitter.com/SmruSe20">
-  <img align="left" alt="Blaze's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Smruti's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="[https://www.linkedin.com/in/smrutisekhar2001/]">
-  <img align="left" alt="Coder Avi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Smruti's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Smileyface20">
-  <img align="left" alt="Coder Avi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Smruti's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://stackoverflow.com/users/15208961/coderavi?tab=profile">
-  <img align="left" alt="CoderAvi's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+<a href="https://stackoverflow.com/users/19222067/smruti-sekhar?tab=profile">
+  <img align="left" alt="Smruti's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-<a href="https://www.instagram.com/coder_avi/">
-  <img align="left" alt="Coder Avi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/s._.shekhar._/">
+  <img align="left" alt="Smruti's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/coderavinash/">
-  <img align="left" alt="Coder Avi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/profile.php?id=100010572190367">
+  <img align="left" alt="Smruti's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
-<a href="https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA">
-  <img align="left" alt="Coder Avi's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.youtube.com/channel/UCl6srlVqE-FwPTa1SmEZJ2Q">
+  <img align="left" alt="Smruti's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://www.hackerrank.com/Avi_Avinash">
-  <img align="left" alt="Coder Avi's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+<a href="https://www.hackerrank.com/ss20032001">
+  <img align="left" alt="Smruti's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>	
 <br/>
 <br/>
 		
-- 🔭 I’m currently working on my own venture [Shopondoor](https://shopondoor.com/).
-- 🌱 I’m currently learning more about Artificial Intelligence & Algorithms.
-- 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/15208961/coderavi?tab=profile).
-- 🤔 I’m looking for help with Shopondoor Deployment work.
-- 💬 Ask me about Android or any tech related stuff.
-- 📫 How to reach me: [Twitter - @Coder_Avi](https://twitter.com/Coder_Avi) , [Youtube - @coderavi](https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA)
+- 🔭 I’m currently working on Myself.
+- 🌱 I’m currently learning more about Web Development & Cloud Computing.
+- 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/19222067/smruti-sekhar).
+- 📫 How to reach me: [Twitter - @SmruSe20](https://twitter.com/SmruSe20) , [Youtube - @S.Sekhar](https://www.youtube.com/channel/UCl6srlVqE-FwPTa1SmEZJ2Q)
 - 😄 Pronouns: He/His    
-- ⚡ Fun fact: I spend almost 12 hours listening podcasts everyday.       
+- ⚡ Interesting fact: I spend almost 3 hours playing guitar everyday.       
            
  
 [![Twitter: CoderAvi](https://img.shields.io/twitter/follow/Coder_Avi?style=social)](https://twitter.com/Coder_Avi)
