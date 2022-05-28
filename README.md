@@ -72,8 +72,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Cloud A
 	    <li><b>Laptop: </b> Asus Tuf fx505dt</li>
   	    <li><b>Browser: </b> Brave & Edge</li>
 	    <li><b>Code Editor:</b> VSCode ❤</li>
-            
-	</ul>	
+        </ul>	
 
 <div align="centre">
 
