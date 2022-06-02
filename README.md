@@ -43,7 +43,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Cloud A
            
  
 [![Twitter: @SmruSe20](https://img.shields.io/twitter/follow/Smileyface20?style=social)](https://twitter.com/SmruSe20)
-[![Linkedin: Smileyface20](https://img.shields.io/badge/-Smruti Sekhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smrutisekhar2001/)](https://www.linkedin.com/in/smrutisekhar2001/)
+[![Linkedin: Smileyface20](https://img.shields.io/badge/-Smileyface20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smrutisekhar2001/)](https://www.linkedin.com/in/smrutisekhar2001/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/s._.shekhar._/) 
 [![GitHub Smileyface20](https://img.shields.io/github/followers/Smileyface20?label=follow&style=social)](https://github.com/Smileyface20)
 [![website](https://img.shields.io/badge/Portfolio-Smileyface20-2648ff?style=flat-square&logo=google-chrome)](https://smileyface20.github.io/MyPortfolio/)
