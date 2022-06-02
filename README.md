@@ -42,7 +42,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Cloud A
 - ⚡ Interesting fact: I spend almost 3 hours playing guitar everyday.       
            
  
-[![Twitter: Smileyface20](https://img.shields.io/twitter/follow/Smileyface20?style=social)](https://twitter.com/SmruSe20)
+[![Twitter: @SmruSe20](https://img.shields.io/twitter/follow/Smileyface20?style=social)](https://twitter.com/SmruSe20)
 [![Linkedin: Smruti Sekhar](https://img.shields.io/badge/-smileyface20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smrutisekhar2001/)](https://www.linkedin.com/in/smrutisekhar2001/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/s._.shekhar._/) 
 [![GitHub Smileyface20](https://img.shields.io/github/followers/Smileyface20?label=follow&style=social)](https://github.com/Smileyface20)
